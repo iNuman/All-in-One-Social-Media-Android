@@ -4,9 +4,9 @@
   
  ALL IN ONE android native app is a very useful app for all worldwide users. It will save your time, battery, space and ram of mobile. If you will use all in one social media app then you don’t need to install all separates app in your mobile.
 
-# Notice
-*You Must Reskin Before Live on Playstore.*
-(Paid App For Free)
+
+- ⚡  If  You  want  to join us  than  leave  a **Mail**.
+> Note: `-- Apache License 2.0` you can't Publish any Source code without permission. (banrossyn@gmail.com)
 
 
 # List of Social Media Apps included.
