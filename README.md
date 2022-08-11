@@ -5,8 +5,18 @@
  ALL IN ONE android native app is a very useful app for all worldwide users. It will save your time, battery, space and ram of mobile. If you will use all in one social media app then you don’t need to install all separates app in your mobile.
 
 
-- ⚡  If  You  want  to join us  than  leave  a **Mail**.
-> Note: `-- Apache License 2.0` you can't Publish any Source code without permission. (banrossyn@gmail.com)
+- ⚡  If You want to join us than message on <a href="banrossyn@gmail.com">Mail</a>
+&
+<a href="https://t.me/banrossyn">Telegram</a>. 
+
+> Note: `-- Apache License 2.0` you can't Publish any Source code without permission.
+# 
+<p align="center">
+    <a href="https://www.paypal.com/paypalme/banrossyn">
+      <img src="https://user-images.githubusercontent.com/97843190/184054819-e2e80e69-df46-4d38-8769-5d591673d412.png"/>
+    </a>
+  </p>
+<p align="center">If you like my work and Source Code is really helpful for you, <strong>Show Some Love</strong></p>
 
 
 # List of Social Media Apps included.
